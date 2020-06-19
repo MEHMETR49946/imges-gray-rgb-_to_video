@@ -1,1 +1,1 @@
-# imges-gray-rgb-_to_video
+# imges(gray&rgb)_to_video
